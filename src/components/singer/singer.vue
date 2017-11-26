@@ -1,6 +1,7 @@
 <template>
   <div class="singer" ref="singer">
-    df
+    <list-view @select="selectSinger" :data="singers" ref="list"></list-view>
+    <router-view></router-view>
   </div>
 </template>
 
