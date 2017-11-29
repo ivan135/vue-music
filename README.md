@@ -2,6 +2,8 @@
 
 > 音乐播放器
 
+- [在线预览](https://ivan135.github.io/vue-music/)
+
 ## Build Setup
 
 ``` bash
